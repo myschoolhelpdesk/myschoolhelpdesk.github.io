@@ -10,7 +10,9 @@ body {
 	font-size: 1.6rem;
 	font-family: "Raleway", sans-serif;
 	color: #040404;
-	background-color: #fff;
+	background-image: url("nyc_doe_background.jpg");
+	background-color: #004b72;
+
 }
 
 a {
