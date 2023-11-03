@@ -12,7 +12,7 @@ body {
 	color: #040404;
 	background-color: #fff;
 	background-image: url("/background.webp");
-	background-cover: contain;
+	background-size: cover;
 }
 
 a {
