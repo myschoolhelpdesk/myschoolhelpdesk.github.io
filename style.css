@@ -34,7 +34,7 @@ a {
 	vertical-align: middle;
 	text-align: center;
 	padding: 0 5%;
-	background-color: #2e416a;
+	/*background-color: #2e416a;*/
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
